@@ -1,9 +1,9 @@
-p{
-    color: green;
+.content{
+  font-size: 24px;
+        }
+    .paragraph{
+      color: green;
     }
-    .list{
-      color: orange;
-    }
-  main {
-    font-size: 24px;
+  .properties-list {
+    color: orange;
   }
